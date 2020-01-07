@@ -1,0 +1,7 @@
+drawer_id,type,quantity,refill,supply_id
+1,Wood,59,0,6
+2,Mechanical,3,1,6
+3,Wood,67,0,3
+4,Mechanical,14,1,4
+5,Wood,94,0,4
+6,Mechanical,36,0,3

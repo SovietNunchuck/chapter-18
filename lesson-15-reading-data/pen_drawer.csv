@@ -1,0 +1,16 @@
+drawer_id,color,quantity,refill,supply_id
+1,Blue,19,1,1
+2,Red,78,0,5
+3,Red,4,1,1
+4,Purple,79,0,2
+5,Black,48,0,2
+6,Green,27,0,1
+7,Blue,54,0,5
+8,Purple,37,0,5
+9,Green,4,1,2
+10,Black,93,0,5
+11,Black,58,0,1
+12,Blue,7,1,2
+13,Green,81,0,5
+14,Red,48,0,2
+15,Purple,100,0,1
