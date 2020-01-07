@@ -1,0 +1,36 @@
+title,author_id,isbn,checked_out,genre_id
+A Midsummer's Night Dream,2,978149413,TRUE,23
+Romeo and Juliet,2,988535196,FALSE,3
+The Golden Compass,1,451664226,FALSE,1
+The Subtle Knife,1,160419390,TRUE,1
+The Amber Spyglass,1,94387895,FALSE,1
+The Alchemist,3,464069772,TRUE,2
+And Then There Were None,4,335973357,TRUE,6
+The Joy Luck Club,5,990050329,TRUE,10
+The Moon Lady,5,91720786,TRUE,24
+Sense and Sensibility,6,156879860,FALSE,3
+Northanger Abbey,6,951273178,FALSE,3
+Pride and Prejudice,6,415886839,FALSE,3
+Mansfield Park,6,188534067,TRUE,3
+Emma,6,994896202,TRUE,3
+Persuasion,6,28150097,TRUE,3
+Lady Susan,6,230962926,FALSE,3
+Wuthering Heights,7,280569946,FALSE,3
+The Handmaid's Tale,8,639239663,FALSE,5
+The Testaments,8,826875490,TRUE,5
+The Parable of the Sower,9,283359358,TRUE,5
+Little Women,10,495409887,TRUE,23
+Still Life,11,455128657,TRUE,6
+A Fatal Grace,11,832517012,FALSE,6
+The Cruelest Month,11,419285319,TRUE,6
+The Murder Stone,11,656621400,TRUE,6
+The Brutal Telling,11,144255852,FALSE,6
+Bury Your Dead,11,208180961,FALSE,6
+A Trick of the Light ,11,93451531,FALSE,6
+Midnight's Children,12,881082293,FALSE,10
+Don't Let the Pigeon Drive the Bus!,13,18409532,FALSE,24
+Beezus and Ramona,14,744412630,TRUE,24
+Organic Chemistry,15,604328803,FALSE,25
+I Know Why the Caged Bird Sings,16,909947112,FALSE,12
+Beloved,17,46736233,FALSE,10
+Brassbones and Rainbows,18,330608463,TRUE,26
