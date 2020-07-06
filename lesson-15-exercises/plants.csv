@@ -1,6 +1,6 @@
-Plant Name,Zone,Season
-Hosta,7,Spring
-Dogwood,6,Spring
-Hydrangea,7,Summer
-Daffodil,6,Spring
-Tulip,8,Spring
+Plant_id,Plant Name,Zone,Season
+1,Hosta,7,Spring
+2,Dogwood,6,Spring
+3,Hydrangea,7,Summer
+4,Daffodil,6,Spring
+5,Tulip,8,Spring
